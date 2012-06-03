@@ -6,7 +6,7 @@ This is Processing based street-view system for school.
   - Supports five locations
   - A colored floor plan  of the first floor serves as a satellite 'map', similar to Google's Street View
  
-The program has not been interfaced with the colored floor plan at the moment. The default image is of the lower field, but you can change it by editing  the `b = loadImage();` line in the *.pde* file. 
+The program has not been interfaced with the colored floor plan at the moment. The default image is of the lower field, but you can change it by editing  the `loadImage();` function in the .pde file (line 20). 
 
 
 
